@@ -1,0 +1,60 @@
+ .main{
+    top: 0px;
+    margin: 0px;
+    background-color: rgb(251, 166, 7);
+    color: rgb(255, 255, 255);
+    height: 604px;
+    width: 366px;
+ }
+ .sign{
+    background-color: rgb(251, 166, 7);
+    height: 150px;
+ }
+ .sign img{
+    width: 20px;
+    height: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+
+ }
+ .sign h1{
+     padding-left: 40px;
+    font-style: bold;
+ }
+ .cont{
+    border: 2px solid rgb(221, 214, 214);
+    border-radius:10px ;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding-left: 40px;
+    background-color: white;
+    color: gray;
+    height: 450px;
+ }
+ .cont h2{
+    color: darkblue;
+    font-style: bold;
+ }
+ input{
+    border-radius: 20px;
+    background-color: rgb(232, 229, 225);
+    color: rgb(2, 0, 0);
+    height: 25px;
+    width: 270px;
+ }
+ table button{
+    width: 270px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: orange;
+    color: rgb(0, 0, 0);
+ }
+ .last{
+    padding-top: 150px;
+    padding-left: 40px;
+ }
+ .last strong{
+    color: darkblue;
+ }
+ 
+ 
